@@ -1,0 +1,13 @@
+from datetime import timedelta
+
+MONGO_URL = "mongodb://localhost:27017"
+MONGO_DB_NAME = "user_auth_db"
+USER_COLLECTION = "users"
+
+JWT_SECRET_KEY = "supersecretkey"
+JWT_ALGORITHM = "HS256"
+JWT_ACCESS_TOKEN_EXPIRE_MINUTES = 60
+
+PASSWORD_EXPIRY_DAYS = 30
+FORGOT_PASSWORD_MAX_REQUESTS = 3
+FORGOT_PASSWORD_EXPIRY_HOURS = 24
