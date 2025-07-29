@@ -1,0 +1,200 @@
+2025-07-25 19:31:41,762 - INFO - Received registration request for john.doe@gmail.com,9876543210
+2025-07-25 19:31:47,660 - INFO - Received registration request for john.doe@gmail.com,9876543210
+2025-07-25 19:32:13,551 - INFO - Received registration request for john.doe@gmail.com,9876543210
+2025-07-25 19:32:28,073 - INFO - Received registration request for john.doe@gmail.com,9876543210
+2025-07-25 19:32:47,388 - INFO - Received registration request for john.doe@gmail.com,9876543210
+2025-07-25 19:34:53,560 - INFO - Received registration request for john.doe@gmail.com,9876543210
+2025-07-25 19:34:56,269 - INFO - Received registration request for john.doe@gmail.com,9876543210
+2025-07-25 19:35:13,484 - INFO - Received registration request for john.doe@gmail.com,9876543210
+2025-07-25 19:35:15,272 - INFO - Received registration request for john.doe@gmail.com,9876543210
+2025-07-25 19:38:32,027 - INFO - Received registration request for john.doe@gmail.com,9876543210
+2025-07-25 19:38:32,294 - INFO - User john.doe@gmail.com,9876543210 registered successfully.
+2025-07-25 19:38:46,700 - INFO - Received registration request for john.doe@gmail.com,9876543210
+2025-07-25 19:38:46,733 - WARNING - Duplicate registration attempt: john.doe@gmail.com or 9876543210
+2025-07-25 19:39:10,253 - INFO - Received registration request for sara.doe@gmail.com,9876543210
+2025-07-25 19:39:10,283 - WARNING - Duplicate registration attempt: sara.doe@gmail.com or 9876543210
+2025-07-25 19:39:29,327 - INFO - Received registration request for john.doe@gmail.com,987654321
+2025-07-25 19:39:36,113 - WARNING - Duplicate registration attempt: john.doe@gmail.com or 987654321
+2025-07-25 19:42:26,973 - INFO - Received registration request for john.doe@gmail.com,987654321
+2025-07-25 19:42:26,998 - WARNING - Duplicate registration attempt: john.doe@gmail.com or 987654321
+2025-07-25 19:47:03,686 - INFO - Received registration request for sam@gmail.com,8976543210
+2025-07-25 19:47:03,747 - INFO - User sam@gmail.com,8976543210 registered successfully.
+2025-07-25 20:04:58,004 - INFO - Received registration request for sara@gmail.com,8967543210
+2025-07-25 20:04:58,302 - INFO - User sara@gmail.com,8967543210 registered successfully.
+2025-07-25 21:14:30,851 - INFO - Received registration request for sara@gmail.com,8967543210
+2025-07-25 21:14:31,113 - WARNING - Duplicate registration attempt: sara@gmail.com or 8967543210
+2025-07-25 21:14:48,964 - INFO - Received registration request for sam@gmail.com,896754321
+2025-07-25 21:14:49,002 - WARNING - Duplicate registration attempt: sam@gmail.com or 896754321
+2025-07-25 21:15:27,419 - INFO - Received registration request for sham@gmail.com,896754321
+2025-07-25 21:15:27,918 - INFO - User sham@gmail.com,896754321 registered successfully.
+2025-07-25 21:16:54,805 - INFO - Received registration request for shrama@gmail.com,896754
+2025-07-25 21:16:56,466 - INFO - User shrama@gmail.com,896754 registered successfully.
+2025-07-25 21:21:45,500 - INFO - Received registration request for pooja@gmail.com,9675432101
+2025-07-25 21:21:47,110 - INFO - User pooja@gmail.com,9675432101 registered successfully.
+2025-07-25 21:22:31,946 - INFO - Received registration request for pooja@gmail.com,7367543210
+2025-07-25 21:22:33,219 - WARNING - Duplicate registration attempt: pooja@gmail.com or 7367543210
+2025-07-25 21:29:16,036 - INFO - Received registration request for gopal@gmail.com,7367543210
+2025-07-25 21:29:16,327 - INFO - User gopal@gmail.com,7367543210 registered successfully.
+2025-07-25 21:29:29,493 - INFO - Received registration request for gopal@gmail.com,7367543210
+2025-07-25 21:29:29,524 - WARNING - Duplicate registration attempt: gopal@gmail.com or 7367543210
+2025-07-26 10:40:58,370 - INFO - Received registration request for charan@gmail.com,7437543210
+2025-07-26 10:40:58,927 - INFO - User charan@gmail.com,7437543210 registered successfully.
+2025-07-26 11:05:18,109 - INFO - Received registration request for rajini@gmail.com,7437543201
+2025-07-26 11:05:19,474 - INFO - User rajini@gmail.com,7437543201 registered successfully.
+2025-07-26 11:05:23,275 - INFO - Received registration request for rajini@gmail.com,7437543201
+2025-07-26 11:05:23,947 - WARNING - Duplicate registration attempt: rajini@gmail.com or 7437543201
+2025-07-26 12:26:57,286 - WARNING - Login failed: 743754320 not found.
+2025-07-26 12:27:14,121 - WARNING - Login failed: Incorrect password for 7437543201
+2025-07-26 14:04:56,984 - WARNING - Login failed: Incorrect password for 7437543201
+2025-07-26 17:43:23,919 - INFO - User 6884636213cf063669baf466 requested contact update
+2025-07-26 17:43:23,920 - INFO - Checking for existing email: newemail@gmail.com
+2025-07-26 17:43:24,200 - INFO - Checking for existing mobile: 9876543210
+2025-07-26 17:43:24,230 - WARNING - Mobile 9876543210 already in use by another user
+2025-07-26 17:43:27,377 - INFO - User 6884636213cf063669baf466 requested contact update
+2025-07-26 17:43:27,377 - INFO - Checking for existing email: newemail@gmail.com
+2025-07-26 17:43:27,405 - INFO - Checking for existing mobile: 9876543210
+2025-07-26 17:43:27,433 - WARNING - Mobile 9876543210 already in use by another user
+2025-07-26 17:47:43,291 - INFO - User 6884636213cf063669baf466 requested contact update
+2025-07-26 17:47:43,291 - INFO - Checking for existing email: newemail@gmail.com
+2025-07-26 17:47:43,318 - INFO - Checking for existing mobile: 9876543210
+2025-07-26 17:47:43,346 - WARNING - Mobile 9876543210 already in use by another user
+2025-07-26 17:48:34,401 - INFO - User 6884636213cf063669baf466 requested contact update
+2025-07-26 17:48:34,402 - INFO - Checking for existing email: newemail@gmail.com
+2025-07-26 17:48:34,429 - INFO - Checking for existing mobile: 9876453210
+2025-07-26 17:48:34,492 - INFO - User 6884636213cf063669baf466 updated contact: {'email': 'newemail@gmail.com', 'mobile': '9876453210'}
+2025-07-26 17:50:01,995 - INFO - User 6884636213cf063669baf466 requested contact update
+2025-07-26 17:50:01,996 - INFO - Checking for existing email: newemail@gmail.com
+2025-07-26 17:50:02,024 - INFO - Checking for existing mobile: 9876453210
+2025-07-26 17:50:02,080 - INFO - User 6884636213cf063669baf466 updated contact: {'email': 'newemail@gmail.com', 'mobile': '9876453210'}
+2025-07-26 17:50:04,817 - INFO - User 6884636213cf063669baf466 requested contact update
+2025-07-26 17:50:04,817 - INFO - Checking for existing email: newemail@gmail.com
+2025-07-26 17:50:04,846 - INFO - Checking for existing mobile: 9876453210
+2025-07-26 17:50:04,901 - INFO - User 6884636213cf063669baf466 updated contact: {'email': 'newemail@gmail.com', 'mobile': '9876453210'}
+2025-07-26 17:50:06,606 - INFO - User 6884636213cf063669baf466 requested contact update
+2025-07-26 17:50:06,606 - INFO - Checking for existing email: newemail@gmail.com
+2025-07-26 17:50:06,633 - INFO - Checking for existing mobile: 9876453210
+2025-07-26 17:50:06,685 - INFO - User 6884636213cf063669baf466 updated contact: {'email': 'newemail@gmail.com', 'mobile': '9876453210'}
+2025-07-26 17:50:22,966 - INFO - User 6884636213cf063669baf466 requested contact update
+2025-07-26 17:50:22,966 - INFO - Checking for existing email: newemail@gmail.com
+2025-07-26 17:50:22,993 - INFO - Checking for existing mobile: 9876453210
+2025-07-26 17:50:23,053 - INFO - User 6884636213cf063669baf466 updated contact: {'email': 'newemail@gmail.com', 'mobile': '9876453210'}
+2025-07-26 17:50:24,666 - INFO - User 6884636213cf063669baf466 requested contact update
+2025-07-26 17:50:24,666 - INFO - Checking for existing email: newemail@gmail.com
+2025-07-26 17:50:24,724 - INFO - Checking for existing mobile: 9876453210
+2025-07-26 17:50:24,783 - INFO - User 6884636213cf063669baf466 updated contact: {'email': 'newemail@gmail.com', 'mobile': '9876453210'}
+2025-07-26 17:51:29,209 - WARNING - Login failed: charan@gmail.com not found.
+2025-07-26 19:49:04,256 - INFO - Received registration request for venky@gmail.com,7437542301
+2025-07-26 19:49:06,278 - INFO - User venky@gmail.com,7437542301 registered successfully.
+2025-07-26 19:54:40,593 - INFO - User 6884e3dad5ee4fa2ad8e34f2 requested contact update
+2025-07-26 19:54:40,593 - INFO - Checking for existing email: newvenky@gmail.com
+2025-07-26 19:54:40,657 - INFO - Checking for existing mobile: 9874653120
+2025-07-26 19:54:40,802 - INFO - User 6884e3dad5ee4fa2ad8e34f2 updated contact: {'email': 'newvenky@gmail.com', 'mobile': '9874653120'}
+2025-07-27 13:30:50,616 - INFO - Received registration request for cherry@gmail.com,7345742301
+2025-07-27 13:31:02,685 - INFO - Received registration request for cherry@gmail.com,7345742301
+2025-07-27 13:35:26,490 - INFO - Received registration request for cherry@gmail.com,7345742301
+2025-07-27 13:35:28,522 - INFO - User cherry@gmail.com,7345742301 registered successfully.
+2025-07-27 13:35:28,522 - INFO - register_user executed in 2032 ms
+2025-07-27 13:39:44,254 - INFO - Received registration request for cherry@gmail.com,7345742301
+2025-07-27 13:39:45,494 - WARNING - Duplicate registration attempt: cherry@gmail.com or 7345742301
+2025-07-27 13:46:20,329 - INFO - Received registration request for cherry@gmail.com,7345742301
+2025-07-27 13:46:21,761 - WARNING - Duplicate registration attempt: cherry@gmail.com or 7345742301
+2025-07-27 13:47:37,262 - INFO - Received registration request for henrry@gmail.com,7543742301
+2025-07-27 13:47:39,603 - INFO - User henrry@gmail.com,7543742301 registered successfully.
+2025-07-27 13:47:39,603 - INFO - register_user executed in 2340 ms
+2025-07-27 13:51:20,489 - INFO - User cherry@gmail.com logged in successfully.
+2025-07-27 13:51:20,490 - INFO - login executed in 628 ms
+2025-07-27 13:51:51,088 - INFO - User 7345742301 logged in successfully.
+2025-07-27 13:51:51,089 - INFO - login executed in 572 ms
+2025-07-27 13:52:05,417 - WARNING - Login failed: 734574230 not found.
+2025-07-27 13:52:29,176 - WARNING - Login failed: Incorrect password for 7345742301
+2025-07-27 13:55:52,464 - INFO - User 7345742301 logged in successfully.
+2025-07-27 13:55:52,464 - INFO - login executed in 629 ms
+2025-07-27 13:57:43,419 - INFO - User 6885ddc8edcb94e2c3bfc958 requested contact update
+2025-07-27 13:57:43,419 - INFO - Checking for existing email: newcherry@gmail.com
+2025-07-27 13:58:36,017 - INFO - User 6885ddc8edcb94e2c3bfc958 requested contact update
+2025-07-27 13:58:36,018 - INFO - Checking for existing email: necherry@gmail.com
+2025-07-27 13:58:43,259 - INFO - User 6885ddc8edcb94e2c3bfc958 requested contact update
+2025-07-27 13:58:43,259 - INFO - Checking for existing email: necherry@gmail.com
+2025-07-27 14:01:27,610 - INFO - User 7345742301 logged in successfully.
+2025-07-27 14:01:27,611 - INFO - login executed in 1113 ms
+2025-07-27 14:02:10,374 - INFO - User 6885ddc8edcb94e2c3bfc958 requested contact update
+2025-07-27 14:02:10,374 - INFO - Checking for existing email: necherry@gmail.com
+2025-07-27 14:02:10,549 - INFO - Checking for existing mobile: 8749531260
+2025-07-27 14:02:11,213 - INFO - User 6885ddc8edcb94e2c3bfc958 updated contact: {'email': 'necherry@gmail.com', 'mobile': '8749531260'}
+2025-07-27 14:02:11,213 - INFO - change_contact executed in 839 ms
+2025-07-27 14:03:40,886 - INFO - User 6885ddc8edcb94e2c3bfc958 requested contact update
+2025-07-27 14:04:29,244 - WARNING - Login failed: 7345742301 not found.
+2025-07-27 14:04:47,187 - INFO - User 8749531260 logged in successfully.
+2025-07-27 14:04:47,187 - INFO - login executed in 324 ms
+2025-07-27 14:05:17,522 - INFO - User 6885ddc8edcb94e2c3bfc958 requested contact update
+2025-07-27 14:05:26,150 - INFO - User 6885ddc8edcb94e2c3bfc958 requested contact update
+2025-07-27 14:07:08,854 - INFO - User 8749531260 logged in successfully.
+2025-07-27 14:07:08,854 - INFO - login executed in 609 ms
+2025-07-27 14:08:14,821 - INFO - User 6885ddc8edcb94e2c3bfc958 requested contact update
+2025-07-27 14:12:14,745 - INFO - User 8749531260 logged in successfully.
+2025-07-27 14:12:14,745 - INFO - login executed in 1195 ms
+2025-07-27 14:12:47,390 - INFO - User 6885ddc8edcb94e2c3bfc958 requested contact update
+2025-07-27 14:16:05,784 - INFO - User 8749531260 logged in successfully.
+2025-07-27 14:16:05,785 - INFO - login executed in 1961 ms
+2025-07-27 14:16:34,119 - INFO - User 6885ddc8edcb94e2c3bfc958 requested contact update
+2025-07-27 14:16:34,119 - INFO - Checking for existing mobile: 8749235126
+2025-07-27 14:16:34,193 - INFO - User 6885ddc8edcb94e2c3bfc958 updated contact: {'mobile': '8749235126'}
+2025-07-27 14:16:34,193 - INFO - change_contact executed in 75 ms
+2025-07-27 14:19:24,621 - INFO - User 8749235126 logged in successfully.
+2025-07-27 14:19:24,622 - INFO - login executed in 897 ms
+2025-07-27 14:21:25,221 - INFO - User 6885ddc8edcb94e2c3bfc958 requested contact update
+2025-07-27 14:21:25,222 - INFO - Checking for existing email: newcherry@gmail.com
+2025-07-27 14:21:26,112 - INFO - User 6885ddc8edcb94e2c3bfc958 updated contact: {'email': 'newcherry@gmail.com'}
+2025-07-27 14:21:26,113 - INFO - change_contact executed in 891 ms
+2025-07-27 14:21:42,941 - INFO - User 6885ddc8edcb94e2c3bfc958 requested contact update
+2025-07-27 14:21:42,941 - INFO - Checking for existing email: newcherry@gmail.com
+2025-07-27 14:21:43,553 - INFO - User 6885ddc8edcb94e2c3bfc958 updated contact: {'email': 'newcherry@gmail.com'}
+2025-07-27 14:21:43,553 - INFO - change_contact executed in 612 ms
+2025-07-27 19:53:26,196 - INFO - User 8749235126 logged in successfully.
+2025-07-27 19:53:26,196 - INFO - login executed in 1125 ms
+2025-07-27 19:54:32,503 - INFO - User 8749235126 logged in successfully.
+2025-07-27 19:54:32,503 - INFO - login executed in 449 ms
+2025-07-27 19:57:25,882 - WARNING - Password expired for 8749235126
+2025-07-27 19:57:44,926 - WARNING - Password expired for 8749235126
+2025-07-27 23:00:34,580 - INFO - [ResetToken] Sent to henrry@gmail.com (valid 24h): deDLFu47BxbR4daAxERP5JdFnc5-wsSXJj9ZcCvKhJA
+2025-07-27 23:00:34,581 - INFO - forgot_password executed in 1383 ms
+2025-07-27 23:00:47,098 - INFO - [ResetToken] Sent to henrry@gmail.com (valid 24h): HPmJgjNItCS3mrk61NXE_OR3KvaQb2I2p772udW31Zw
+2025-07-27 23:00:47,098 - INFO - forgot_password executed in 96 ms
+2025-07-27 23:00:49,494 - INFO - [ResetToken] Sent to henrry@gmail.com (valid 24h): oJCaaT23PLtcyXfd7JqmrLUFxPr8TzhqBLmln-NKkmI
+2025-07-27 23:00:49,494 - INFO - forgot_password executed in 97 ms
+2025-07-27 23:00:51,101 - WARNING - [ForgotPassword] Rate limit exceeded for henrry@gmail.com
+2025-07-28 10:46:01,304 - INFO - [ResetToken] Sent to henrry@gmail.com (valid 24h): CyOYkL0E4z3fXV36y6tt-FAIhJfFTcTITEE8WeRVFcg
+2025-07-28 10:46:01,305 - INFO - forgot_password executed in 1211 ms
+2025-07-28 10:46:23,910 - INFO -  Email not found: henrr@gmail.com
+2025-07-28 10:46:23,910 - INFO - forgot_password executed in 28 ms
+2025-07-28 10:46:35,351 - INFO - [ResetToken] Sent to henrry@gmail.com (valid 24h): UdT1zcV4Wglb4DzFc0cOx-oYxRoHsr-OZlk1PSMPCo4
+2025-07-28 10:46:35,351 - INFO - forgot_password executed in 568 ms
+2025-07-28 10:46:46,594 - INFO - [ResetToken] Sent to henrry@gmail.com (valid 24h): 6Sr5d7z5SpYycXsI5vSp55k0TwOa-kTZ4mOyyIsfLBI
+2025-07-28 10:46:46,594 - INFO - forgot_password executed in 112 ms
+2025-07-28 10:46:53,401 - WARNING - [ForgotPassword] Rate limit exceeded for henrry@gmail.com
+2025-07-28 10:47:32,250 - INFO -  Email not found: henrr@gmail.com
+2025-07-28 10:47:32,251 - INFO - forgot_password executed in 38 ms
+2025-07-28 10:47:51,190 - WARNING - [ForgotPassword] Rate limit exceeded for henrry@gmail.com
+2025-07-28 11:41:15,041 - WARNING - [ForgotPassword] Rate limit exceeded for henrry@gmail.com
+2025-07-28 12:08:54,423 - WARNING - [ForgotPassword] henrry@gmail.com is temporarily locked 
+2025-07-28 12:18:41,149 - WARNING - [ForgotPassword] henrry@gmail.com is temporarily locked 
+2025-07-28 12:18:50,705 - WARNING - Login blocked: Account deactivated for 7543742301 until 2025-07-29 06:11:15.041000+00:00
+2025-07-28 12:18:52,590 - WARNING - Login blocked: Account deactivated for 7543742301 until 2025-07-29 06:11:15.041000+00:00
+2025-07-28 12:19:57,935 - INFO - Account reactivated for 7543742301
+2025-07-28 12:19:57,954 - INFO - User 7543742301 logged in successfully.
+2025-07-28 12:19:57,954 - INFO - login executed in 915 ms
+2025-07-28 13:34:04,881 - INFO - User 7543742301 logged in successfully.
+2025-07-28 13:34:04,881 - INFO - login executed in 694 ms
+2025-07-28 17:12:44,212 - INFO - User 7543742301 logged in successfully.
+2025-07-28 17:12:44,213 - INFO - login executed in 722 ms
+2025-07-28 17:14:31,376 - INFO - User 7543742301 logged in successfully.
+2025-07-28 17:14:31,376 - INFO - login executed in 600 ms
+2025-07-28 17:16:16,275 - INFO - User 7543742301 logged in successfully.
+2025-07-28 17:16:16,275 - INFO - login executed in 639 ms
+2025-07-28 17:27:47,001 - INFO - User 7543742301 logged in successfully.
+2025-07-28 17:27:47,001 - INFO - login executed in 745 ms
+2025-07-28 17:28:16,902 - INFO - User 6885e0a2eb7b6ae2ee6c276c requested contact update
+2025-07-28 17:28:16,902 - INFO - Checking for existing email: newhenrry@gmail.com
+2025-07-28 17:28:16,956 - INFO - User 6885e0a2eb7b6ae2ee6c276c updated contact: {'email': 'newhenrry@gmail.com'}
+2025-07-28 17:28:16,957 - INFO - change_contact executed in 55 ms
+2025-07-28 17:28:41,388 - INFO - logout_user executed in 0 ms
