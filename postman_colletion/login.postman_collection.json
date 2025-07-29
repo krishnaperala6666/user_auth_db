@@ -1,0 +1,190 @@
+{
+	"info": {
+		"_postman_id": "26f4800a-1a8b-4c53-b87b-7e0479e436c4",
+		"name": "login.postman_collection.json",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44779290",
+		"_collection_link": "https://krishna-6343309.postman.co/workspace/krishna's-Workspace~704889d8-3a25-4e1e-8279-94cc6704a4d5/collection/44779290-26f4800a-1a8b-4c53-b87b-7e0479e436c4?action=share&source=collection_link&creator=44779290"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": \"venky@gmail.com\",\r\n  \"password\": \"Venky@12\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:8000/login"
+			},
+			"response": [
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"username\": \"cherry@gmail.com\",\r\n  \"password\": \"Cherry@12\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "http://127.0.0.1:8000/login"
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "date",
+							"value": "Sun, 27 Jul 2025 08:21:19 GMT"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn"
+						},
+						{
+							"key": "content-length",
+							"value": "309"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"message\": \"Login successful\",\n    \"access_token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2ODg1ZGRjOGVkY2I5NGUyYzNiZmM5NTgiLCJlbWFpbCI6ImNoZXJyeUBnbWFpbC5jb20iLCJtb2JpbGUiOiI3MzQ1NzQyMzAxIiwiZXhwIjoxNzUzNjA4MDgwfQ.OjS9nbYBx1_LlMavB3BHQyJcOuxWx5XAmYuanun3RIo\",\n    \"token_type\": \"bearer\",\n    \"execution_time_ms\": 628\n}"
+				},
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"username\": \"7345742301\",\r\n  \"password\": \"Cherry@12\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "http://127.0.0.1:8000/login"
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "date",
+							"value": "Sun, 27 Jul 2025 08:21:49 GMT"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn"
+						},
+						{
+							"key": "content-length",
+							"value": "309"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"message\": \"Login successful\",\n    \"access_token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2ODg1ZGRjOGVkY2I5NGUyYzNiZmM5NTgiLCJlbWFpbCI6ImNoZXJyeUBnbWFpbC5jb20iLCJtb2JpbGUiOiI3MzQ1NzQyMzAxIiwiZXhwIjoxNzUzNjA4MTExfQ.uzsR8ZyvmMdCwqIyXxVpKmAfHp9UUEiGR89U7ueDPX0\",\n    \"token_type\": \"bearer\",\n    \"execution_time_ms\": 572\n}"
+				},
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"username\": \"734574230\",\r\n  \"password\": \"Cherry@12\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "http://127.0.0.1:8000/login"
+					},
+					"status": "Unauthorized",
+					"code": 401,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "date",
+							"value": "Sun, 27 Jul 2025 08:22:04 GMT"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn"
+						},
+						{
+							"key": "content-length",
+							"value": "41"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"detail\": \"Invalid username or password\"\n}"
+				},
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"username\": \"7345742301\",\r\n  \"password\": \"Cherry@1\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "http://127.0.0.1:8000/login"
+					},
+					"status": "Unauthorized",
+					"code": 401,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "date",
+							"value": "Sun, 27 Jul 2025 08:22:27 GMT"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn"
+						},
+						{
+							"key": "content-length",
+							"value": "41"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"detail\": \"Invalid username or password\"\n}"
+				}
+			]
+		}
+	]
+}
