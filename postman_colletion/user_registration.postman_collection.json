@@ -1,0 +1,267 @@
+{
+	"info": {
+		"_postman_id": "5acf84e3-6503-451d-b85f-4fd5ea77939a",
+		"name": "User RegiStration Postman Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44779290",
+		"_collection_link": "https://krishna-6343309.postman.co/workspace/krishna's-Workspace~704889d8-3a25-4e1e-8279-94cc6704a4d5/collection/44779290-5acf84e3-6503-451d-b85f-4fd5ea77939a?action=share&source=collection_link&creator=44779290"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"email\": \"sam@gmail.com\",\r\n  \"mobile\": \"8976543210\",\r\n  \"first_name\": \"John\",\r\n  \"last_name\": \"Doe\",\r\n   \"dob\": \"1995-10-01\",\r\n   \"doj\": \"2023-06-15\",\r\n  \"address\": \"hyderabad\",\r\n  \"password\": \"asjkkssa\",\r\n  \"active\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:8000/register"
+			},
+			"response": [
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"email\": \"venky@gmail.com\",\r\n  \"mobile\": \"7437542301\",\r\n  \"first_name\": \"venky\",\r\n  \"last_name\": \"s\",\r\n   \"dob\": \"1995-10-01\",\r\n   \"doj\": \"2023-06-15\",\r\n  \"address\": \"hyderabad\",\r\n  \"password\": \"Venky@12\",\r\n  \"active\": true\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "http://127.0.0.1:8000/register"
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "date",
+							"value": "Sat, 26 Jul 2025 14:19:03 GMT"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn"
+						},
+						{
+							"key": "content-length",
+							"value": "43"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"message\": \" User registered successfully\"\n}"
+				}
+			]
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzb3BoaWUiLCJleHAiOjE3NTI2NTYzMDN9.Wj2V8aBVrN46oAjM-02qjD1NVrpP4vFbHFAC3nTaXOc"
+					}
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": \"charan@gmail.com\",\r\n  \"password\": \"Charan@12\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://127.0.0.1:8000/login"
+			},
+			"response": [
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"username\": \"venky@gmail.com\",\r\n  \"password\": \"Venky@12\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "http://127.0.0.1:8000/login"
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "date",
+							"value": "Sat, 26 Jul 2025 14:20:02 GMT"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn"
+						},
+						{
+							"key": "content-length",
+							"value": "283"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"message\": \"Login successful\",\n    \"access_token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2ODg0ZTNkYWQ1ZWU0ZmEyYWQ4ZTM0ZjIiLCJlbWFpbCI6InZlbmt5QGdtYWlsLmNvbSIsIm1vYmlsZSI6Ijc0Mzc1NDIzMDEiLCJleHAiOjE3NTM1NDMyMDN9.AfabAD0F6yCPl_u5n1Sg5HwqjVUNjntUgAulcoAbgUQ\",\n    \"token_type\": \"bearer\"\n}"
+				}
+			]
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2ODg0NjM2MjEzY2YwNjM2NjliYWY0NjYiLCJlbWFpbCI6ImNoYXJhbkBnbWFpbC5jb20iLCJtb2JpbGUiOiI3NDM3NTQzMjEwIiwiZXhwIjoxNzUzNTM1ODMxfQ.qeoEeLLc5UjkdCNHXgYGY6ek0Y8RJBX6tdMHQQ4ka2Y"
+					}
+				},
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"email\": \"newemail@gmail.com\",\r\n  \"mobile\": \"9876453210\"\r\n}"
+				},
+				"url": "http://127.0.0.1:8000/change-contact"
+			},
+			"response": [
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"email\": \"newemail@gmail.com\",\r\n  \"mobile\": \"9876453210\"\r\n}"
+						},
+						"url": "http://127.0.0.1:8000/change-contact"
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "date",
+							"value": "Sat, 26 Jul 2025 12:20:24 GMT"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn"
+						},
+						{
+							"key": "content-length",
+							"value": "42"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"message\": \"Contact updated successfully\"\n}"
+				},
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"email\": \"newvenky@gmail.com\",\r\n  \"mobile\": \"9874653120\"\r\n}"
+						},
+						"url": "http://127.0.0.1:8000/change-contact"
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "date",
+							"value": "Sat, 26 Jul 2025 14:24:40 GMT"
+						},
+						{
+							"key": "server",
+							"value": "uvicorn"
+						},
+						{
+							"key": "content-length",
+							"value": "42"
+						},
+						{
+							"key": "content-type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"message\": \"Contact updated successfully\"\n}"
+				}
+			]
+		}
+	]
+}
