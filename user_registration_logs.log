@@ -21,22 +21,22 @@
 2025-07-25 19:47:03,747 - INFO - User sam@gmail.com,8976543210 registered successfully.
 2025-07-25 20:04:58,004 - INFO - Received registration request for sara@gmail.com,8967543210
 2025-07-25 20:04:58,302 - INFO - User sara@gmail.com,8967543210 registered successfully.
-2025-07-25 21:14:30,851 - INFO - Received registration request for sara@gmail.com,8967543210
-2025-07-25 21:14:31,113 - WARNING - Duplicate registration attempt: sara@gmail.com or 8967543210
-2025-07-25 21:14:48,964 - INFO - Received registration request for sam@gmail.com,896754321
-2025-07-25 21:14:49,002 - WARNING - Duplicate registration attempt: sam@gmail.com or 896754321
-2025-07-25 21:15:27,419 - INFO - Received registration request for sham@gmail.com,896754321
-2025-07-25 21:15:27,918 - INFO - User sham@gmail.com,896754321 registered successfully.
-2025-07-25 21:16:54,805 - INFO - Received registration request for shrama@gmail.com,896754
-2025-07-25 21:16:56,466 - INFO - User shrama@gmail.com,896754 registered successfully.
-2025-07-25 21:21:45,500 - INFO - Received registration request for pooja@gmail.com,9675432101
-2025-07-25 21:21:47,110 - INFO - User pooja@gmail.com,9675432101 registered successfully.
-2025-07-25 21:22:31,946 - INFO - Received registration request for pooja@gmail.com,7367543210
-2025-07-25 21:22:33,219 - WARNING - Duplicate registration attempt: pooja@gmail.com or 7367543210
-2025-07-25 21:29:16,036 - INFO - Received registration request for gopal@gmail.com,7367543210
-2025-07-25 21:29:16,327 - INFO - User gopal@gmail.com,7367543210 registered successfully.
-2025-07-25 21:29:29,493 - INFO - Received registration request for gopal@gmail.com,7367543210
-2025-07-25 21:29:29,524 - WARNING - Duplicate registration attempt: gopal@gmail.com or 7367543210
+2025-07-26 21:14:30,851 - INFO - Received registration request for sara@gmail.com,8967543210
+2025-07-26 21:14:31,113 - WARNING - Duplicate registration attempt: sara@gmail.com or 8967543210
+2025-07-26 21:14:48,964 - INFO - Received registration request for sam@gmail.com,896754321
+2025-07-26 21:14:49,002 - WARNING - Duplicate registration attempt: sam@gmail.com or 896754321
+2025-07-26 21:15:27,419 - INFO - Received registration request for sham@gmail.com,896754321
+2025-07-26 21:15:27,918 - INFO - User sham@gmail.com,896754321 registered successfully.
+2025-07-26 21:16:54,805 - INFO - Received registration request for shrama@gmail.com,896754
+2025-07-26 21:16:56,466 - INFO - User shrama@gmail.com,896754 registered successfully.
+2025-07-26 21:21:45,500 - INFO - Received registration request for pooja@gmail.com,9675432101
+2025-07-26 21:21:47,110 - INFO - User pooja@gmail.com,9675432101 registered successfully.
+2025-07-26 21:22:31,946 - INFO - Received registration request for pooja@gmail.com,7367543210
+2025-07-26 21:22:33,219 - WARNING - Duplicate registration attempt: pooja@gmail.com or 7367543210
+2025-07-26 21:29:16,036 - INFO - Received registration request for gopal@gmail.com,7367543210
+2025-07-26 21:29:16,327 - INFO - User gopal@gmail.com,7367543210 registered successfully.
+2025-07-26 21:29:29,493 - INFO - Received registration request for gopal@gmail.com,7367543210
+2025-07-26 21:29:29,524 - WARNING - Duplicate registration attempt: gopal@gmail.com or 7367543210
 2025-07-26 10:40:58,370 - INFO - Received registration request for charan@gmail.com,7437543210
 2025-07-26 10:40:58,927 - INFO - User charan@gmail.com,7437543210 registered successfully.
 2025-07-26 11:05:18,109 - INFO - Received registration request for rajini@gmail.com,7437543201
@@ -183,18 +183,18 @@
 2025-07-28 12:19:57,935 - INFO - Account reactivated for 7543742301
 2025-07-28 12:19:57,954 - INFO - User 7543742301 logged in successfully.
 2025-07-28 12:19:57,954 - INFO - login executed in 915 ms
-2025-07-28 13:34:04,881 - INFO - User 7543742301 logged in successfully.
-2025-07-28 13:34:04,881 - INFO - login executed in 694 ms
-2025-07-28 17:12:44,212 - INFO - User 7543742301 logged in successfully.
-2025-07-28 17:12:44,213 - INFO - login executed in 722 ms
-2025-07-28 17:14:31,376 - INFO - User 7543742301 logged in successfully.
-2025-07-28 17:14:31,376 - INFO - login executed in 600 ms
-2025-07-28 17:16:16,275 - INFO - User 7543742301 logged in successfully.
-2025-07-28 17:16:16,275 - INFO - login executed in 639 ms
-2025-07-28 17:27:47,001 - INFO - User 7543742301 logged in successfully.
-2025-07-28 17:27:47,001 - INFO - login executed in 745 ms
-2025-07-28 17:28:16,902 - INFO - User 6885e0a2eb7b6ae2ee6c276c requested contact update
-2025-07-28 17:28:16,902 - INFO - Checking for existing email: newhenrry@gmail.com
-2025-07-28 17:28:16,956 - INFO - User 6885e0a2eb7b6ae2ee6c276c updated contact: {'email': 'newhenrry@gmail.com'}
-2025-07-28 17:28:16,957 - INFO - change_contact executed in 55 ms
-2025-07-28 17:28:41,388 - INFO - logout_user executed in 0 ms
+2025-07-29 13:34:04,881 - INFO - User 7543742301 logged in successfully.
+2025-07-29 13:34:04,881 - INFO - login executed in 694 ms
+2025-07-29 17:12:44,212 - INFO - User 7543742301 logged in successfully.
+2025-07-29 17:12:44,213 - INFO - login executed in 722 ms
+2025-07-29 17:14:31,376 - INFO - User 7543742301 logged in successfully.
+2025-07-29 17:14:31,376 - INFO - login executed in 600 ms
+2025-07-29 17:16:16,275 - INFO - User 7543742301 logged in successfully.
+2025-07-29 17:16:16,275 - INFO - login executed in 639 ms
+2025-07-29 17:27:47,001 - INFO - User 7543742301 logged in successfully.
+2025-07-29 17:27:47,001 - INFO - login executed in 745 ms
+2025-07-29 17:28:16,902 - INFO - User 6885e0a2eb7b6ae2ee6c276c requested contact update
+2025-07-29 17:28:16,902 - INFO - Checking for existing email: newhenrry@gmail.com
+2025-07-29 17:28:16,956 - INFO - User 6885e0a2eb7b6ae2ee6c276c updated contact: {'email': 'newhenrry@gmail.com'}
+2025-07-29 17:28:16,957 - INFO - change_contact executed in 55 ms
+2025-07-29 17:28:41,388 - INFO - logout_user executed in 0 ms
